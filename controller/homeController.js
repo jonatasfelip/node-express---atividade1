@@ -4,8 +4,8 @@ class HomeController{
     index(req, res){
         res.render('index.ejs');
     }
-    login(req, res){
-        res.render('pages/login');
+    home(req, res){
+        res.render('pages/home');
     }
 }
 

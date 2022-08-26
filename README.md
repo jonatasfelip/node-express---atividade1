@@ -1,2 +1,2 @@
-# Primeira atividade usando login express
-Código para fins didáticos
+# Atividade usando login express
+Efetuando login
